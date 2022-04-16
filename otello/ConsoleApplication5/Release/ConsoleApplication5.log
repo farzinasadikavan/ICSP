@@ -1,0 +1,25 @@
+﻿  stdafx.c
+  board.c
+  cheking.c
+  condition.c
+condition.c(11): warning C4101: 'y': unreferenced local variable
+condition.c(11): warning C4101: 'c': unreferenced local variable
+condition.c(11): warning C4101: 'n': unreferenced local variable
+  first_board.c
+  input.c
+input.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+input.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+input.c(7): warning C4101: 'valid': unreferenced local variable
+  othello.c
+othello.c(10): warning C4101: 'a': unreferenced local variable
+othello.c(10): warning C4101: 'b': unreferenced local variable
+  Generating code
+c:\users\asus\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\cheking.c(300): warning C4715: 'cheking': not all control paths return a value
+  12 of 12 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication5.vcxproj -> C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Release\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Release\ConsoleApplication5.pdb (Full PDB)
